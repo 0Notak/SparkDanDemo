@@ -5,9 +5,9 @@ EL PROYECTO SOLO ES UNA DEMOSTRACION DE UNAS FUNCIONES DE SPARK, ES DEMOSTRATIVO
 
 
 
-### abrir  
+### abrir para entender este repositorio 
 # archivo.ipynb 
-para entender este repositorio
+
 
 
 
