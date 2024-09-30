@@ -1,8 +1,15 @@
 # Demostracion de uso de funciones varias de Spark
 
 ## DESCRIPCION:
-
 EL PROYECTO SOLO ES UNA DEMOSTRACION DE UNAS FUNCIONES DE SPARK, ES DEMOSTRATIVO SOBRE EL USO DE SPARK
+
+
+
+### abrir para entender este repositorio 
+# archivo.ipynb 
+
+
+
 
 
 ### Arquitectura y diferentes cosas utiles de spark
