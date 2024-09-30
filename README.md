@@ -6,7 +6,9 @@ EL PROYECTO SOLO ES UNA DEMOSTRACION DE UNAS FUNCIONES DE SPARK, ES DEMOSTRATIVO
 
 
 ### abrir para entender este repositorio 
-# archivo.ipynb 
+# python SPARK.ipynb
+o
+# scala SPARK.scala
 
 
 
